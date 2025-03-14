@@ -1,0 +1,1 @@
+CONSTRAINTS_WALLET_BALANCE_NAME = "balance_gte_0"
